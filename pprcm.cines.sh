@@ -40,6 +40,9 @@
 #      REVISION:  ---
 #===============================================================================
 #set -o nounset                              # Treat unset variables as an error
+
+
+#=================================================== setting
 export PATH=/usr/local/bin/:$PATH 
 NewTag="Had_hist"
 YEAR1="2001"
